@@ -16,12 +16,7 @@ Ensure you have Python 3.8+ installed on your system. The application relies on 
 
 ### Setup
 
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/Streamlit-Plant-Health-Dashboard.git
-   ```
-
-2. Install the required Python libraries:
+1. Install the required Python libraries:
    ```bash
    pip install -r requirements.txt
    ```
