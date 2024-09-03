@@ -1,0 +1,1 @@
+Alert: Disease detected at Row 2, Column 2
