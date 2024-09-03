@@ -1,4 +1,4 @@
-# AgriHealth Soil Detector
+# AgriHealth Data Processing Tools
 
 This repository contains tools and datasets for analyzing soil health and providing crop recommendations.
 
@@ -8,17 +8,32 @@ This repository contains tools and datasets for analyzing soil health and provid
 2. **Check soil for crop.ipynb**: A Jupyter notebook that analyzes soil data to suggest suitable crops.
 3. **Crop recommendation.csv**: A dataset containing crop recommendations based on various soil parameters.
 
+## Getting Started
+
 ### Prerequisites
 Ensure you have the following installed:
 - Python 3.8+
+- Jupyter Notebook or JupyterLab
 - Required Python libraries: pandas, numpy, matplotlib (for the notebook)
 
-#### Running the deom
-To run the `Demo soil detector.py` script, execute the following command in your terminal:
+### Setup
+
+1. Clone this repository to your local machine:
    ```bash
-   streanlit run Demo Soil Detector.py
+   git clone https://github.com/yourusername/AgriHealth-Data-Tools.git
    ```
 
+2. Navigate to the cloned directory:
+   ```bash
+   cd AgriHealth-Data-Tools
+   ```
+
+3. Install the required Python libraries:
+   ```bash
+   pip install pandas numpy matplotlib
+   ```
+
+### Running the Tools
 
 #### Car Soil Detector Script
 To run the `Car Soil Detector.py` script, execute the following command in your terminal:
@@ -52,5 +67,3 @@ Contributions to improve the tools or dataset are welcome. Please read `CONTRIBU
 
 ## Acknowledgments
 - Thanks to the team and all contributors who have helped develop these tools and datasets.
-```
-
