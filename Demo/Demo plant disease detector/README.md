@@ -13,13 +13,6 @@ This repository contains Python scripts for monitoring plant health using drone 
 ### Prerequisites
 Ensure you have Python 3.8+ installed on your system. The scripts may require additional libraries, which should be installed manually as needed.
 
-### Setup
-
-1. Navigate to the cloned directory:
-   ```bash
-   cd Plant-Health-Monitoring-System
-   ```
-
 ### Running the Scripts
 
 #### Main Script
