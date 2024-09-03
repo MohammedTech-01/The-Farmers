@@ -4,7 +4,7 @@ This repository contains the necessary files for setting up a plant disease dete
 
 ## Files Description
 
-1. **Plant disease detector Model.ipynb**: A Jupyter notebook that details the creation and training of a machine learning model for plant disease detection.
+1. **Plant disease detector Model.ipynb**: A Jupyter notebook that details the creation and training of a machine learning model for plant disease detection. The model is trained using a dataset available on Kaggle, which can be accessed [here](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset).
 2. **Plant disease model final.pth**: The trained model file that can be loaded to predict plant diseases.
 3. **simulate plant disease detector drone.py**: A Python script that simulates a drone-based system for detecting plant diseases in real time.
 4. **simulate plant disease detector without drone.py**: A Python script for simulating plant disease detection without the use of a drone.
@@ -20,17 +20,7 @@ Ensure you have the following installed:
 
 ### Setup
 
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/Plant-Disease-Detection-System.git
-   ```
-
-2. Navigate to the cloned directory:
-   ```bash
-   cd Plant-Disease-Detection-System
-   ```
-
-3. Install the required Python libraries:
+1. Install the required Python libraries:
    ```bash
    pip install torch torchvision numpy matplotlib
    ```
