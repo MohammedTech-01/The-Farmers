@@ -1,7 +1,6 @@
 # The-Farmers
 Here's the complete README file in one markdown format for your AgriHealth project:
 
-```markdown
 # AgriHealth
 
 ## Introduction
@@ -67,4 +66,3 @@ For any inquiries, please reach out to info@agrihealth.com.
 
 ## Acknowledgments
 - Thanks to everyone who has contributed to this project!
-```
