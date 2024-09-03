@@ -1,5 +1,4 @@
 # The-Farmers
-Here's the complete README file in one markdown format for your AgriHealth project:
 
 # AgriHealth
 
@@ -47,14 +46,8 @@ AgriHealth is an integrated AI solution aimed at enhancing agricultural producti
    python drone_simulation.py
    ```
 
-## Documentation
-- `docs/`: Contains detailed documentation about the methodologies and the models used.
-
 ## Contributing
 Interested in contributing? Great! Please read the `CONTRIBUTING.md` for details on our code of conduct and the process for submitting pull requests.
-
-## License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## Team
 - **Abdulelah Khalaf** - AI Specialist
@@ -62,7 +55,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 - **Mohammed Alluhaydan** - Data Scientist
 
 ## Contact
-For any inquiries, please reach out to info@agrihealth.com.
+For any inquiries, please reach out to mohammedialluhaydan@gmail.com.
 
 ## Acknowledgments
 - Thanks to everyone who has contributed to this project!
