@@ -15,12 +15,7 @@ Ensure you have Python 3.8+ installed on your system. The scripts may require ad
 
 ### Setup
 
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/Plant-Health-Monitoring-System.git
-   ```
-
-2. Navigate to the cloned directory:
+1. Navigate to the cloned directory:
    ```bash
    cd Plant-Health-Monitoring-System
    ```
